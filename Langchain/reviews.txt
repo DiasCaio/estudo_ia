@@ -1,0 +1,5 @@
+{'review_positiva': True, 'vale_pena': True, 'pontos_positivos': ['Som incrível', 'Graves bem definidos', 'Bateria dura o dia inteiro'], 'pontos_negativos': []}
+{'review_positiva': True, 'vale_pena': True, 'pontos_positivos': ['Muito confortável'], 'pontos_negativos': ['Case poderia ser mais resistente']}
+{'review_positiva': False, 'vale_pena': False, 'pontos_positivos': ['Qualidade do som boa'], 'pontos_negativos': ['Conexão instável (cai do nada)']}
+{'review_positiva': True, 'vale_pena': True, 'pontos_positivos': ['Ótimo custo-benefício', 'Bom para uso na academia', 'Uso diário sem problemas'], 'pontos_negativos': []}
+{'review_positiva': False, 'vale_pena': False, 'pontos_positivos': [], 'pontos_negativos': ['Bateria não dura conforme anunciado', 'Decepção com a duração']}
